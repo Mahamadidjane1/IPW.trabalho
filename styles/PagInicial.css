@@ -3,7 +3,10 @@ header h1{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    border-radius: 100%;
 }
+
+
 
 nav {
     display: flex; 
@@ -17,6 +20,7 @@ nav {
     text-align: left;
     text-decoration: none;
     color: cadetblue;
+    text-transform: uppercase;
 
 }
 
@@ -26,6 +30,7 @@ nav {
     text-align: center;
     text-decoration: none;
     color: cadetblue;
+    text-transform: uppercase;
 }
 
 .direita{
@@ -34,6 +39,7 @@ nav {
     text-align: right;
     text-decoration: none;
     color: cadetblue;
+    
 }
 footer{
     background-color: darkslategrey;
@@ -44,3 +50,9 @@ footer a{
     text-decoration: none;
     color:brown;
 }
+.header-links{
+   text-transform: uppercase;
+   text-decoration: none;
+   font-weight:300;
+}
+
