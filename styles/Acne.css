@@ -1,11 +1,7 @@
-a {
-    text-decoration: none; 
+a{
+    text-decoration: none;
     font-weight: bold;
-    color:burlywood; 
-}
-
-image img{
-    wigth: 100%;
+    color: burlywood;
 }
 article{
     margin-top: 10px;
