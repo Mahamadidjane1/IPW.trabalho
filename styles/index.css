@@ -1,3 +1,7 @@
+/* @import "Acne.css";
+@import "PagInicial.css";
+@import "Herpes_Zoster.css"; */
+
 a {
     text-decoration: none; 
     font-weight: bold;
@@ -14,5 +18,4 @@ article{
     border: 1px solid black;
     border-radius: 10px;
 }
-
 
