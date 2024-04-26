@@ -4,6 +4,7 @@ header h1{
     margin-right: auto;
     text-align: center;
     border-radius: 100%;
+    color: burlywood;
 }
 
 
@@ -12,6 +13,9 @@ nav {
     display: flex; 
     justify-content: space-between; 
     align-items: center; 
+    text-decoration: none;
+    font-weight: bold;
+  
 
 }
 .esquerda{
@@ -53,6 +57,9 @@ footer a{
 .header-links{
    text-transform: uppercase;
    text-decoration: none;
-   font-weight:300;
+   font-weight:bold;
 }
+
+
+
 
