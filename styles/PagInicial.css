@@ -5,17 +5,15 @@ header h1{
     text-align: center;
     border-radius: 100%;
     color: burlywood;
+    
 }
 
-
-
-nav {
+ul {
     display: flex; 
     justify-content: space-between; 
     align-items: center; 
     text-decoration: none;
     font-weight: bold;
-  
 
 }
 .esquerda{
@@ -59,7 +57,21 @@ footer a{
    text-decoration: none;
    font-weight:bold;
 }
-
+footer{
+   block-size: auto;
+}
+a {
+    text-decoration: none;
+}
+footer  {
+    size-adjust: 120%;
+    
+}
+hr{
+    border: 1px solid darkslategrey ;
+    margin : white;
+    color : white
+}
 
 
 
