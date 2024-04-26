@@ -16,6 +16,15 @@ ul {
     font-weight: bold;
 
 }
+ul{
+    list-style-type:circle;
+    shape-margin: 120%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkslategray;
+    text-size-adjust: 130%;
+}
 .esquerda{
     margin-left: auto;
     margin-right: auto;
@@ -23,6 +32,7 @@ ul {
     text-decoration: none;
     color: cadetblue;
     text-transform: uppercase;
+    width: 25%;
 
 }
 
@@ -33,6 +43,7 @@ ul {
     text-decoration: none;
     color: cadetblue;
     text-transform: uppercase;
+    width: 25%;
 }
 
 .direita{
@@ -41,6 +52,7 @@ ul {
     text-align: right;
     text-decoration: none;
     color: cadetblue;
+    width: 25%;
     
 }
 footer{
@@ -68,9 +80,15 @@ footer  {
     
 }
 hr{
+
+    size-adjust: 200%;
+    margin : 2px solid darkslategrey;
     border: 1px solid darkslategrey ;
     margin : white;
     color : white
+}
+header h1{
+    background-color: darkslategrey;
 }
 
 
