@@ -1,12 +1,12 @@
 a{
     text-decoration: none;
     font-weight: bold;
-    color: burlywood;
+    color: rgb(207, 143, 22);
 }
 article{
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 10px;
-    border: 1px solid black;
+    border: 1px solid rgba(8, 8, 8, 0.644);
     border-radius: 10px;
 }
